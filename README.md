@@ -48,3 +48,7 @@ sdmc:
 ## Origin of the program's name: 
 
 Random spelled backwards.  
+
+## Credits: 
+
+CompSciOrBust for N-Xplorer's copy function.  
